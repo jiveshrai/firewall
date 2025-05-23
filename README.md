@@ -10,5 +10,4 @@ A lightweight, real-time firewall developed in Python for dynamic packet filteri
 - 📜 Logs all blocked packets with timestamps
 - 🧪 Designed to simulate and defend against attacks in a GNS3 lab
 
-## 🏗️ Project Structure
 
